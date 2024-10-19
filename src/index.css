@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@700&family=IBM+Plex+Sans:ital,wght@1,300&family=Inter:wght@500&family=Lato:ital@0;1&family=Open+Sans:wght@600&family=Playfair+Display:wght@500&family=Raleway:wght@100;300;600&family=Roboto:ital,wght@0,300;0,400;0,500;1,100&family=Space+Grotesk:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@1,300&family=Inter:wght@500&family=Playfair+Display:wght@500&family=Raleway:wght@100;300;600&family=Roboto:ital,wght@0,300;0,400;1,100&family=Space+Grotesk:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@1,300&family=Inter:wght@500&family=Lato:ital@0;1&family=Open+Sans:wght@600&family=Playfair+Display:wght@500&family=Raleway:wght@100;300;600&family=Roboto:ital,wght@0,300;0,400;0,500;1,100&family=Space+Grotesk:wght@700&display=swap");
+
+.IBM {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.SILIGURI {
+  font-family: "Hind Siliguri", sans-serif;
+}
+.Na body {
+  font-family: "Kalpurush", "Noto Sans Bengali", sans-serif;
+}
+
+.bg-dark {
+  background-color: #111827 !important;
+}
+
+.max-width-md {
+  max-width: 1400px !important;
+}
+
+/* ---------- font -------- */
+
+.bengali-text {
+  font-family: "Kalpurush", "Noto Sans Bengali", sans-serif;
+}
